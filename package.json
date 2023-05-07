@@ -1,10 +1,10 @@
 {
-  "name": "create-vue",
-  "version": "0.0.1",
+  "name": "create-antd",
+  "version": "0.0.2",
   "description": "An easy way to start a Ant Design project",
   "type": "module",
   "bin": {
-    "create-vue": "outfile.cjs"
+    "create-antd": "outfile.cjs"
   },
   "files": [
     "outfile.cjs",
